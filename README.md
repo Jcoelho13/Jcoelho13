@@ -1,7 +1,7 @@
 <div align="center">
   <img href="center" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif">
   <h2 align="center">Hi! I'm João Coelho.</h2>
-  <h3>I'm a 1st year student of the <a href="https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2024&pv_origem=CUR&pv_tipo_cur_sigla=M&pv_curso_id=22862">Masters in Informatics and Computing Engineering</a> @ FEUP.</h3>
+  <h3>I'm a 2nd year student of the <a href="https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_ano_lectivo=2024&pv_origem=CUR&pv_tipo_cur_sigla=M&pv_curso_id=22862">Masters in Informatics and Computing Engineering</a> @ FEUP.</h3>
 </div>
 <br>
 
